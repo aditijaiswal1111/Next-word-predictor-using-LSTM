@@ -39,10 +39,5 @@ To use the text generator:
 - TensorFlow
 - Keras
 
-## Credits
 
-This project draws inspiration from various text generation models and tutorials available in the machine learning community. Special thanks to the TensorFlow and Keras teams for their excellent documentation and resources.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
